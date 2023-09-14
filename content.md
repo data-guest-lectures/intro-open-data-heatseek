@@ -14,7 +14,7 @@ class: center
 ## Richard Dunks
 ## Noelle Francois
 
-## Follow along at: http://bit.ly/jj-open-data
+## Follow along at: https://data-guest-lectures.github.io/intro-open-data-heatseek/
 
 ---
 
